@@ -1,0 +1,5 @@
+*
+!.gitignore
+README.md
+!open-materials.sh
+!template-open-materials.sh
